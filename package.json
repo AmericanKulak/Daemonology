@@ -9,7 +9,8 @@
     "socket.io": "*",
     "request" : "*",
     "feedparser" : "*",
-    "string": "*"
+    "string": "*",
+    "lunr" : "*"
   },
   "devDependencies": {},
   "scripts": {
