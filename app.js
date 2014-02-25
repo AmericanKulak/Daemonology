@@ -1,6 +1,6 @@
 require( './lib' )
 	.set( 'httpPort', 8787 )
-	.start();adsf
+	.start();
 
 // var Launchie = require('./lib/Launchie.js').Launchie;
 
