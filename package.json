@@ -4,9 +4,19 @@
   "description": "Beta",
   "main": "app.js",
   "dependencies": {
-    "express": "*",
+    "express": ">=4.0.0",
+    "morgan": ">=1.0.0",
+    "body-parser": ">=1.0.0",
+    "method-override": ">=1.0.0",
+    "cookie-parser" : "*",
+    "express-session" : "*",
+
+
+
     "jade": "*",
+
     "socket.io": "*",
+
     "request" : "*",
     "feedparser" : "*",
     "string": "*",
