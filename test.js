@@ -15,5 +15,5 @@ nuIndex.add({"id": 1, "body":"lunr.js is a simple full text search engine for yo
 
 //console.dir(index.search(nuIndex.documentStore.store[1].elements));
 console.dir(index.search("lunr.j"));
-console.dir(index.search("lunr.js ice cream mother fucker father wheeee"));
+console.dir(index.search("lunr.js ice cream mother father wheeee"));
 console.dir(index.documentVector(1));
