@@ -35,6 +35,6 @@ Launchie
  - Google will open in a new tab.
 
 Newsie
- - Enter "fetch Test"
+ - Enter "fetch Test" as your test command.
  - If the Server is not open, it will open.
  - Test will appear in bold at the top. 
